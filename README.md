@@ -1,0 +1,2 @@
+# Slider-React
+Slider plugin
